@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ivan Smith",
+    "books": [
+      {
+        "title": "Java 8",
+        "pages": 505,
+        "year": 2014
+      },
+      {
+        "title": "Clean Code",
+        "pages": 400,
+        "year": 2008
+      },
+      {
+        "title": "Algorithms",
+        "pages": 332,
+        "year": 1999
+      },
+      {
+        "title": "Spring",
+        "pages": 600,
+        "year": 2020
+      },
+      {
+        "title": "Docker",
+        "pages": 200,
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "name": "Anna Potter",
+    "books": [
+      {
+        "title": "History of the USA",
+        "pages": 350,
+        "year": 2005
+      },
+      {
+        "title": "Java 8",
+        "pages": 505,
+        "year": 2014
+      },
+      {
+        "title": "Physics",
+        "pages": 450,
+        "year": 2012
+      },
+      {
+        "title": "Psychology",
+        "pages": 250,
+        "year": 2021
+      },
+      {
+        "title": "Space",
+        "pages": 150,
+        "year": 1995
+      }
+    ]
+  },
+  {
+    "name": "Peter Black",
+    "books": [
+      {
+        "title": "Biology",
+        "pages": 367,
+        "year": 2025
+      },
+      {
+        "title": "HTML",
+        "pages": 658,
+        "year": 2021
+      },
+      {
+        "title": "Game designing",
+        "pages": 138,
+        "year": 2017
+      },
+      {
+        "title": "Easy Maths",
+        "pages": 478,
+        "year": 1991
+      },
+      {
+        "title": "Spring",
+        "pages": 600,
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "Karen Dough",
+    "books": [
+      {
+        "title": "Python",
+        "pages": 354,
+        "year": 2017
+      },
+      {
+        "title": "HTML",
+        "pages": 658,
+        "year": 2021
+      },
+      {
+        "title": "English Grammar",
+        "pages": 691,
+        "year": 1976
+      },
+      {
+        "title": "French Revolution",
+        "pages": 478,
+        "year": 2023
+      },
+      {
+        "title": "Basic SQL",
+        "pages": 377,
+        "year": 2015
+      }
+    ]
+  }
+]
